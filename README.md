@@ -21,8 +21,8 @@ Mocks and test/deployment scripts were not included in the review.
 | ID | Finding | Severity | PoC |
 |---|---|---|---|
 | H-01 | `Snowman::mintSnowman` has no access control | High | ✅ Completed |
-| H-02 | `SnowmanAirdrop::claimSnowman` allows signature/proof replay | High | 🔲 In progress |
-| H-03 | `Snow::earnSnow` uses one shared timer instead of tracking users individually | High | 🔲 In progress |
+| H-02 | `SnowmanAirdrop::claimSnowman` allows signature/proof replay | High | ✅ Completed |
+| H-03 | `Snow::earnSnow` uses one shared timer instead of tracking users individually | High | ✅ Completed |
 
 ## Notes
 
